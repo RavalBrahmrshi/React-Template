@@ -1,0 +1,1 @@
+export const Get_News_Data = 'Get_News_Data';
